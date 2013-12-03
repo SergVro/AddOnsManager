@@ -8,3 +8,21 @@ The script is not signed, so you might need to change the execution policy by ru
 ```PowerShell
 Set-ExecutionPolicy RemoteSigned
 ```
+
+More informatoin available [here](http://world.episerver.com/Blogs/Sergey-Vorushilo/Dates/2013/12/Command-line-support-for-Add-On-system/)
+
+Here is some interface screenshots.
+---------
+
+Site selection:
+
+![SelectSite](https://raw.github.com/SergVro/AddOnsManager/master/Documentation/SelectSite.png "Select a site")
+
+Main menu:
+
+![MmainMenu](https://raw.github.com/SergVro/AddOnsManager/master/Documentation/MainMenu.png "Main menu")
+
+List of installed add-ons:
+
+![Installed](https://raw.github.com/SergVro/AddOnsManager/master/Documentation/ListOfInstalled.png "Installed add-ons")
+
