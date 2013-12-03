@@ -8,9 +8,3 @@ The script is not signed, so you might need to change the execution policy by ru
 ```PowerShell
 Set-ExecutionPolicy RemoteSigned
 ```
-
-
-
-
-
-
